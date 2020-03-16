@@ -1,5 +1,5 @@
 # Summary
-This is a very basic desktop app that loads [app.commonstock.com](https://app.commonstock.com). There is no more functionality than the web app since it is literally the same.
+This is a very basic desktop app that loads [app.commonstock.com](https://app.commonstock.com). There is no more functionality than the web app since it is literally the same. This is an unofficial app and is not supported by CommonStock.
 
 # Development
 
